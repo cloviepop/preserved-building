@@ -1,6 +1,6 @@
 {
   "type": "spectrum:pedestal",
-  "time": 1200,
+  "time": 900,
   "tier": "complex",
   "cyan": 8,
   "magenta": 0,
@@ -15,7 +15,7 @@
   ],
   "key": {
     "A": {
-      "item": "spectrum:refined_azurite"
+      "item": "spectrum:blue_pigment"
     },
     "B": {
       "item": "spectrum:blackslag_bricks"
@@ -26,7 +26,8 @@
   },
   "result": {
     "item": "preserved-building:azurite_stone",
-    "count": 16
+    "count": 4
   },
-  "required_advancement": "spectrum:lategame/find_excavation_site"
+  "required_advancement": "spectrum:lategame/find_excavation_site",
+  "disable_yield_upgrades": true
 }

@@ -10,7 +10,7 @@
   "experience": 0.0,
   "pattern": [
     " A ",
-    "ABA",
+    "RBR",
     " A "
   ],
   "key": {
@@ -19,6 +19,9 @@
     },
     "B": {
       "item": "preserved-building:azurite_stone_bricks"
+    },
+    "R": {
+      "item": "spectrum:blue_pigment"
     }
   },
   "result": {
