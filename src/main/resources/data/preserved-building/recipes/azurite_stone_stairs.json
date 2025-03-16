@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "preserved-building:azurite_stone"
+    }
+  ],
+  "result": "preserved-building:azurite_stone_stairs",
+  "count": 1
+}

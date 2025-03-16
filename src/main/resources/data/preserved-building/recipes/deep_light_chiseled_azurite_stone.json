@@ -1,0 +1,33 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 120,
+  "tier": "complex",
+  "cyan": 2,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 2,
+  "black": 0,
+  "experience": 0.0,
+  "pattern": [
+    "PAP",
+    "ABA",
+    "PAP"
+  ],
+  "key": {
+    "P": {
+      "item": "spectrum:quitoxic_powder"
+    },
+    "A": {
+      "item": "spectrum:nightdew_sprout"
+    },
+    "B": {
+      "item": "preserved-building:azurite_stone"
+    }
+  },
+  "result": {
+    "item": "preserved-building:deep_light_chiseled_azurite_stone",
+    "count": 1
+  },
+  "required_advancement": "spectrum:lategame/find_excavation_site",
+  "required_advancement": "spectrum:lategame/collect_nectardew"
+}

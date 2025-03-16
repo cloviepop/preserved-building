@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "preserved-building:azurite_stone"
+    },
+    {
+      "item": "preserved-building:powder_chiseled_azurite_stone"
+    }
+  ],
+  "result": "preserved-building:azurite_stone_bricks",
+  "count": 1
+}

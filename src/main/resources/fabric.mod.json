@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "preserved-building",
+	"version": "${version}",
+	"name": "Preserved Building",
+	"description": "Adds in some cosmetic variants of certain unobtainables from Spectrum. Credit to ShadowCube264, kineticcat, SkyeVG, Arco_Stickia and miyucomics for helping me create this, and dafuqs and azzyypaaras for their work on Spectrum.",
+	"authors": [
+		"cloviepop"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/cloviepop/preserved-building"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/preserved-building/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"preservedbuilding.PreservedBuilding"
+		],
+		"client": [
+			"preservedbuilding.PreservedBuildingClient"
+		]
+	},
+
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"spectrum": "1.8.4"
+	}
+}

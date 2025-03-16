@@ -1,0 +1,29 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 120,
+  "tier": "complex",
+  "cyan": 2,
+  "magenta": 2,
+  "yellow": 0,
+  "white": 2,
+  "black": 0,
+  "experience": 0.0,
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "preserved-building:azurite_glass"
+    }
+  },
+  "result": {
+    "item": "preserved-building:tinted_azurite_glass",
+    "count": 1
+  },
+  "required_advancement": "spectrum:lategame/find_excavation_site"
+}

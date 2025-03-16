@@ -1,0 +1,32 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 1200,
+  "tier": "complex",
+  "cyan": 8,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 4,
+  "black": 0,
+  "experience": 0.0,
+  "pattern": [
+    "ABA",
+    "BDB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "spectrum:refined_azurite"
+    },
+    "B": {
+      "item": "spectrum:blackslag_bricks"
+    },
+    "D": {
+      "item": "spectrum:polished_bone_ash"
+    }
+  },
+  "result": {
+    "item": "preserved-building:azurite_stone",
+    "count": 16
+  },
+  "required_advancement": "spectrum:lategame/find_excavation_site"
+}

@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "preserved-building:azurite_stone",
+    "preserved-building:azurite_stone_bricks",
+    "preserved-building:azurite_stone_slab",
+    "preserved-building:azurite_stone_stairs",
+    "preserved-building:azurite_stone_wall",
+    "preserved-building:shimmering_azurite_stone_bricks",
+    "preserved-building:powder_chiseled_azurite_stone",
+    "preserved-building:dike_chiseled_azurite_stone",
+    "preserved-building:dream_chiseled_azurite_stone",
+    "preserved-building:deep_light_chiseled_azurite_stone",
+    "preserved-building:black_chiseled_azurite_stone",
+    "preserved-building:blue_chiseled_azurite_stone",
+    "preserved-building:cyan_chiseled_azurite_stone",
+    "preserved-building:magenta_chiseled_azurite_stone",
+    "preserved-building:yellow_chiseled_azurite_stone",
+    "preserved-building:white_chiseled_azurite_stone",
+    "preserved-building:pink_chiseled_azurite_stone",
+    "preserved-building:purple_chiseled_azurite_stone",
+    "preserved-building:red_chiseled_azurite_stone",
+    "preserved-building:orange_chiseled_azurite_stone",
+    "preserved-building:green_chiseled_azurite_stone",
+    "preserved-building:lime_chiseled_azurite_stone",
+    "preserved-building:light_blue_chiseled_azurite_stone",
+    "preserved-building:light_gray_chiseled_azurite_stone",
+    "preserved-building:brown_chiseled_azurite_stone",
+    "preserved-building:gray_chiseled_azurite_stone",
+    "preserved-building:azurite_glass",
+    "preserved-building:tinted_azurite_glass"
+  ]
+}

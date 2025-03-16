@@ -1,0 +1,29 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 120,
+  "tier": "complex",
+  "cyan": 2,
+  "magenta": 0,
+  "yellow": 0,
+  "white": 2,
+  "black": 0,
+  "experience": 0.0,
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "spectrum:lime_pigment"
+    },
+    "B": {
+      "item": "preserved-building:azurite_stone"
+    }
+  },
+  "result": {
+    "item": "preserved-building:lime_chiseled_azurite_stone",
+    "count": 1
+  },
+  "required_advancement": "spectrum:lategame/find_excavation_site"
+}
